@@ -1,4 +1,4 @@
-# 🍔 CraveCart – Food Ordering Platform
+# CraveCart – Food Ordering Platform
 
 CraveCart is a full-stack food ordering platform designed to connect customers with restaurants through a seamless and user-friendly digital experience. The platform enables users to browse restaurants, explore menus, place orders, manage carts, and track their ordering experience efficiently.
 
@@ -70,6 +70,7 @@ Built using Spring Boot and React, CraveCart follows modern software development
 ### Home Page
 <img width="900" height="307" alt="Picture3" src="https://github.com/user-attachments/assets/a1d42876-7ac3-47ef-9fe3-1634b641e39b" />
 <img width="892" height="320" alt="Picture1" src="https://github.com/user-attachments/assets/75955274-4af8-406c-8fcc-83404bd073b6" />
+
 ### Food Menu
 <img width="900" height="327" alt="Picture2" src="https://github.com/user-attachments/assets/a9f6f5cd-7a31-4dac-8186-cbb23a16f0e9" />
 
